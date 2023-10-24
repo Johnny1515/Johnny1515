@@ -7,7 +7,7 @@ Student and Software developer
 I've been learning code to 1 year.
 
 * 🌍  I'm based in Vientiane
-* 🖥️  See my portfolio at [Have not now](https://johnnyxaiyalathporfolio.netlify.app)
+* 🖥️  See my portfolio at [JohnnyXaiyalath](https://johnnyxaiyalathporfolio.netlify.app)
 * ✉️  You can contact me at [johnnysyldev@gmail.com](mailto:johnnysyldev@gmail.com)
 * 🚀  I'm currently working on [Haltech](http://haltech.la/)
 * 🧠  I'm learning new framework, Linux ,algorithms and data-structures.
